@@ -1,0 +1,72 @@
+
+---
+title: "Data Science Notebook"
+author: "Author Name"
+date: "2024-10-16"
+output: html_document
+---
+
+# Exercise 2 - Title of the Notebook
+This is the **Data Science Notebook** created as part of an exercise.
+
+# Exercise 3 - Introduction
+In this notebook, we will cover some basic concepts related to Data Science, including languages, libraries, and tools commonly used in the field.
+
+# Exercise 4 - Data Science Languages
+Some of the popular languages used in Data Science are:
+- Python
+- R
+- SQL
+- Julia
+- Java
+
+# Exercise 5 - Data Science Libraries
+Some of the widely used libraries in Data Science are:
+- NumPy
+- Pandas
+- Matplotlib
+- TensorFlow
+- scikit-learn
+
+# Exercise 6 - Data Science Tools
+| Tool               | Purpose                        |
+|--------------------|--------------------------------|
+| Jupyter Notebooks  | Interactive Coding Environment |
+| RStudio            | R IDE for Data Analysis        |
+| Apache Hadoop      | Distributed Data Processing    |
+| Tableau            | Data Visualization             |
+| Apache Spark       | Big Data Analytics             |
+
+# Exercise 7 - Arithmetic Expression Examples
+Below are some examples of simple arithmetic expressions.
+
+# Exercise 8 - Multiply and Add Numbers
+```{r}
+# Multiplication and Addition
+result <- (3 * 4) + 5
+result
+```
+
+# Exercise 9 - Convert Minutes to Hours
+```{r}
+# Convert 120 minutes to hours
+minutes <- 120
+hours <- minutes / 60
+hours
+```
+
+# Exercise 10 - Objectives
+The objectives of this notebook are:
+- Understand basic Data Science concepts
+- Learn about commonly used tools, languages, and libraries
+- Practice arithmetic operations in R
+
+# Exercise 11 - Author
+**Author:** Your Name
+
+# Exercise 12 - GitHub
+This notebook can be shared through GitHub.
+
+# Exercise 13 - Screenshot
+Include a screenshot of the first page of the notebook.
+
